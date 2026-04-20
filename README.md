@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GhasemHeydari
 - 👀 I’m interested in C/C++ programming.
-- 🌱 I’m currently learning C++(20) and python
-- 💞️ I’m looking to collaborate on software developer.
+- 🌱 I’m currently learning HTML and js.
+- 💞️ I’m looking to collaborate as a software developer.
 - 📫 You can reach me with this email: ghasem.heydari2@gmail.com
 
 <!---
