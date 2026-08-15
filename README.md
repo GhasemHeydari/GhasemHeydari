@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ghasem Heydari
 
-I am a Software Engineer with a strong interest in **aerospace systems, simulation, and control engineering (GNC)**.
+I am a Software Engineer with a strong interest in **aerospace/marine systems, simulation, and control engineering (GNC)**.
 
 I enjoy building scientific software for modeling, simulation, and solving engineering problems using C++ and Python.
 
